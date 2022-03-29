@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi, my name is Leonardo Rodrigues. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardogfrodrigues&show_icons=true&theme=merko)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogfrodrigues&layout=compact&count_private=true&theme=merko" />
 
 <!--
 **leonardogfrodrigues/leonardogfrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogfrodrigues&hide=TeX&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
